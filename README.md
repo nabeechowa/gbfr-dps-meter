@@ -1,6 +1,16 @@
-# 💤 Taking a short rest
+# 🚀 Project Update & Community Notice
 
-I need to rest now, everyone. My body can't take it anymore. I'll be back to read the feedback and make improvements after I've rested. Thank you all. 🦋
+The mod is currently 100% complete and fully functional! 
+
+⚠️ **Notice regarding Nexus Mods:** The Nexus comment/post section has been temporarily closed due to their review process. To ensure you can always get support, share feedback, and receive updates without any disruptions, please join our independent community server.
+
+### 💬 Join Our Discord Server
+Click the button below to join our growing, helpful, and toxic-free community. This will be our primary hub for future updates, troubleshooting, and direct support.
+
+[![Discord](https://shields.io)](https://discord.gg/R2Z335gH7s)
+
+---
+*Thank you all for your incredible support. Let's build a great space for app improvement together!* 🦋
 
 ---
 
