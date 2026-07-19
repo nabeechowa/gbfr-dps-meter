@@ -7,7 +7,7 @@ The mod is currently 100% complete and fully functional!
 ###  Join Our Discord Server
 Click the button below to join our growing, helpful, and toxic-free community. This will be our primary hub for future updates, troubleshooting, and direct support.
 
-[![Discord](https://shields.io)](https://discord.gg/R2Z335gH7s)
+[Discord](https://discord.gg/R2Z335gH7s)
 
 ---
 *Thank you all for your incredible support. Let's build a great space for app improvement together!* 🦋
