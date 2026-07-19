@@ -25,8 +25,6 @@ Single native `.exe` · No install · No Python · Read-only · Self-updating
 
 **by Nabi 🦋 × Claude 🧡**
 
-</div>
-
 ---
 
 ## ✨ What is it
