@@ -7,6 +7,11 @@ Click the button below to join, helpful, and toxic-free community. This will be 
 
 [Discord](https://discord.gg/R2Z335gH7s)
 
+Alternatively, if you don't want to join Discord, you can just type directly inside the app.
+Go to the bottom menu: Community > Chat. I'll be in the EN channel.
+(Nothing is stored permanently chat auto-deletes,
+only the last 50 messages are shown, and a quiet room is completely wiped after 30 minutes).
+
 ---
 *Thank you all for your incredible support. Let's build a great space for app improvement together!* 🦋
 
