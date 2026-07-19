@@ -1,3 +1,9 @@
+# 💤 Taking a short rest
+
+I need to rest now, everyone. My body can't take it anymore. I'll be back to read the feedback and make improvements after I've rested. Thank you all. 🦋
+
+---
+
 # 🦋 GBFR Team DPS Meter
 
 **A lightweight, real-time team DPS meter for Granblue Fantasy: Relink — Endless Ragnarok**
